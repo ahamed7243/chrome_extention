@@ -1,0 +1,22 @@
+main{
+    width: 500px;
+    box-sizing: border-box;
+    border: 1px solid grey;
+    height: 500px;
+    padding: 20px;
+    margin: auto;
+}
+
+#input{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+.btnall{
+    color: white;
+    background: black;
+    padding: 7px;
+    border: navajowhite;
+    border-radius: 4px;
+}
